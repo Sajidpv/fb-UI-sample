@@ -1,16 +1,20 @@
-# fb_ui
+Facebook UI Demo
+This is a repository for a Facebook User Interface (UI) demo. It includes various components and features commonly found in the Facebook UI, implemented using Flutter and Dart.
 
-A new Flutter project.
+Features
 
-## Getting Started
+ it included deferent sections such as an app bar on top contains to icon buttons for search and messenger, header buttons, room section,status section, friend suggestion section and also feed post section.
+ 
+ in this project i have rectifiing the code and reuse the code such as avatar section for deferent sections.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Installation
+To run the Facebook UI demo locally, follow these steps:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Clone the repository to your local machine using git clone or by downloading the ZIP file.
+Open the project  with VSCode or Android Studio. Run the project in the emulator. thats it
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![Screenshot_1681225537](https://user-images.githubusercontent.com/125041012/231252046-bf1a57bf-c1d8-47e9-91c3-a53f8c35ab6f.png)
+![Screenshot_1681225576](https://user-images.githubusercontent.com/125041012/231252112-1f47726b-d6a8-48f9-88eb-9a1105f22445.png)
+![Screenshot_1681225611](https://user-images.githubusercontent.com/125041012/231252124-79ddf740-206e-4920-b2fa-9c564d071be0.png)
